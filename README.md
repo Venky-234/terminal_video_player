@@ -12,7 +12,9 @@
 normal version VS optimized version
 
 
-![2024-03-19 23-07-48]https://github.com/Venky-234/terminal_video_player/assets/77890305/a9f11c01-7942-4e69-8e54-2762430a5392
+
+
+https://github.com/Venky-234/terminal_video_player/assets/77890305/a9f11c01-7942-4e69-8e54-2762430a5392
 
 
 
